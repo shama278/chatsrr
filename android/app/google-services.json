@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "921178123902",
+    "project_id": "srchat-c52e5",
+    "storage_bucket": "srchat-c52e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921178123902:android:d55301f816267f881bf22f",
+        "android_client_info": {
+          "package_name": "com.mighty.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921178123902-cb5t68jcrerurd26c4h2elk8nikjeujn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.chat",
+            "certificate_hash": "592513526849843e7f91992c213308764685539d"
+          }
+        },
+        {
+          "client_id": "921178123902-ft7ok1pdfhq4j5s9fr02lnll5b8ljri8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7tErFOlWZLAeieu1YN4HDB97HVJg2oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921178123902-ft7ok1pdfhq4j5s9fr02lnll5b8ljri8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921178123902-gbkmn93nqa7oq975vnggccmm5k81bq8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.chat1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
